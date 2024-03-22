@@ -4,7 +4,8 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
-.container{
+
+.container {
     width: 100%;
     min-height: 100vh;
     background: linear-gradient(135deg, #cf9aFF, #95c0ff);
