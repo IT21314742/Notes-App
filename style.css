@@ -29,5 +29,5 @@
 .container button{
     display: flex;
     align-items: center;
-    background: linear-gradient(#9418fd);
+    background: linear-gradient(#9418fd, );
 }
