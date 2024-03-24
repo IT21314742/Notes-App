@@ -1,1 +1,1 @@
-const notesContainer = document.querySelector(".notes")
+const notesContainer = document.querySelector(".notes-container")
