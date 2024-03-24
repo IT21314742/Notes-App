@@ -1,2 +1,2 @@
 const notesContainer = document.querySelector(".notes-container");
-const createBtn = document.querySelector(".btn")
+const createBtn = document.querySelector(".btn");
