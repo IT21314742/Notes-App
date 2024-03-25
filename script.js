@@ -6,4 +6,6 @@ function showNotes(){
     notesContainer.innerHTML = localStorage.getItem("notes");
 }
 
-function updateStorage(){}
+function updateStorage(){
+    
+}
