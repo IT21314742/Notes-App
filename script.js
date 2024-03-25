@@ -11,4 +11,4 @@ function updateStorage(){
 }
 showNotes();
 
-createBtn
+createBtn.addEventListener
