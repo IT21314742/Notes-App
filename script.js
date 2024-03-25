@@ -12,5 +12,5 @@ function updateStorage(){
 showNotes();
 
 createBtn.addEventListener("click", ()=>{
-    let inputBox = document
+    let inputBox = document.createElement
 })
