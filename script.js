@@ -13,4 +13,5 @@ showNotes();
 
 createBtn.addEventListener("click", ()=>{
     let inputBox = document.createElement("p");
+    
 })
