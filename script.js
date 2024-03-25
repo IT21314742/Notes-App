@@ -12,5 +12,5 @@ function updateStorage(){
 showNotes();
 
 createBtn.addEventListener("click", ()=>{
-    let inputBox
+    let inputBox 
 })
