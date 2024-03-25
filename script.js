@@ -13,5 +13,4 @@ showNotes();
 
 createBtn.addEventListener("click", ()=>{
 
-    
 })
