@@ -7,5 +7,5 @@ function showNotes(){
 }
 
 function updateStorage(){
-    localStorage.setItem("notes", notesContainer)
+    localStorage.setItem("notes", notesContainer.innerHTML)
 }
