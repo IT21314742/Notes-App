@@ -11,4 +11,7 @@ function updateStorage(){
 }
 showNotes();
 
-createBtn.addEventListener("click", ()=>{})
+createBtn.addEventListener("click", ()=>{
+
+    
+})
