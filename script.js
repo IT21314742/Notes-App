@@ -13,5 +13,5 @@ showNotes();
 
 createBtn.addEventListener("click", ()=>{
     let inputBox = document.createElement("p");
-    let img = document.createElement("")
+    let img = document.createElement("img")
 })
