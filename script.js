@@ -2,16 +2,16 @@ const notesContainer = document.querySelector(".notes-container");
 const createBtn = document.querySelector(".btn");
 let notes = document.querySelectorAll(".input-box");
 
-function showNotes(){
+function showNotes() {
     notesContainer.innerHTML = localStorage.getItem("notes");
 }
 
-function updateStorage(){
+function updateStorage() {
     localStorage.setItem("notes", notesContainer.innerHTML);
 }
 showNotes();
 
-createBtn.addEventListener("click", ()=>{
+createBtn.addEventListener("click", () => {
     let inputBox = document.createElement("p");
     let img = document.createElement("img");
     inputBox.className = "input-box";
