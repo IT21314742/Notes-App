@@ -20,4 +20,4 @@ createBtn.addEventListener("click", () => {
     notesContainer.appendChild(inputBox).appendChild(img);
 })
 
-notesContainer.addEventListener()
+notesContainer.addEventListener("")
