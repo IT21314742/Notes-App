@@ -22,6 +22,6 @@ createBtn.addEventListener("click", () => {
 
 notesContainer.addEventListener("click", function(e){
     if(e.target.tagName === "IMG"){
-        e.target.parentElement.remove
+        e.target.parentElement.remove()
     }
 })
