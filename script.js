@@ -25,5 +25,5 @@ notesContainer.addEventListener("click", function(e){
         e.target.parentElement.remove();
         updateStorage();
     }
-    else if(e.target.tagName == )
+    else if(e.target.tagName == "")
 })
