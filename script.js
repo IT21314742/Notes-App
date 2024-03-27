@@ -25,4 +25,5 @@ notesContainer.addEventListener("click", function(e){
         e.target.parentElement.remove();
         updateStorage();
     }
+    
 })
