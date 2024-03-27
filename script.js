@@ -21,5 +21,5 @@ createBtn.addEventListener("click", () => {
 })
 
 notesContainer.addEventListener("click", function(e){
-    if()
+    if(e)
 })
