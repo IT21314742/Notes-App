@@ -29,7 +29,7 @@ notesContainer.addEventListener("click", function (e) {
         notes = document.querySelectorAll(".input-box");
         notes.forEach(nt => {
             notes.forEach(nt => {
-                nt.onkeyu
+                nt.onkeyup
 
             })
         })
