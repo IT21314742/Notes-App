@@ -30,7 +30,7 @@ notesContainer.addEventListener("click", function (e) {
         notes.forEach(nt => {
             notes.forEach(nt => {
                 nt.onkeyup = function(){
-                    upd
+                    upda
                 }
 
             })
