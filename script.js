@@ -28,7 +28,9 @@ notesContainer.addEventListener("click", function(e){
     else if(e.target.tagName == "P"){
         notes = document.querySelectorAll(".input-box");
         notes.forEach(nt => {
-            notes.forEach(nt =>{})
+            notes.forEach(nt =>{
+                
+            })
         })
     }
 })
