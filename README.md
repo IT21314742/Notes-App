@@ -1,1 +1,1 @@
-Elevate your productivity with a dynamic Notes App developed using HTML, CSS, and JavaScript.This project empowers users to create, edit, and organize their notes efficiently within a web-based environment.
+Elevate your productivity with a dynamic Notes App developed using HTML, CSS, and JavaScript.This project empowers users to create, edit, and organize their notes efficiently within a web-based environment. With a minimalist design
