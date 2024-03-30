@@ -37,4 +37,4 @@ notesContainer.addEventListener("click", function (e) {
         })
     }
 })
-document.addEventListener("keydown", Event )
+document.addEventListener("keydown", Event =)
