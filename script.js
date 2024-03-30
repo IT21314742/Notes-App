@@ -39,6 +39,6 @@ notesContainer.addEventListener("click", function (e) {
 })
 document.addEventListener("keydown", Event =>{
     if(Event.key === "enter"){
-        document.execComm
+        document.execCommand
     }
 })
