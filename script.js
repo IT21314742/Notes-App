@@ -40,6 +40,6 @@ notesContainer.addEventListener("click", function (e) {
 document.addEventListener("keydown", Event =>{
     if(Event.key === "enter"){
         document.execCommand("insertLineBreak");
-        Eve
+        Even
     }
 })
