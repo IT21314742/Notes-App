@@ -15,4 +15,4 @@ _How to Use:_
 **Embed** the provided _HTML, CSS, and JavaScript_ code snippets into your web application.
 **Customize** styles and settings as needed to seamlessly integrate the Notes App into your project.
 
-_Enhance your productivity and organization with this versatile Notes App solution. Explore, contribute, and leverage this project to streamline note-taking and management tasks effectively._😊💖
+_Enhance your productivity and organization with this versatile Notes App solution. Explore, contribute, and leverage this project to streamline note-taking and management tasks effectively._ 😊💖
